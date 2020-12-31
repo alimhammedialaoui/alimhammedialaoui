@@ -51,7 +51,7 @@ My social :
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="50px" alt="css" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" width="50px" alt="js" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="60px" style="vertical-align:top; margin:4px">&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100px" style="vertical-align:top; margin:4px">&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100px" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="80px" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="70px" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="60px" alt="vscode" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp
