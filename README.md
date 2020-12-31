@@ -62,7 +62,9 @@ My socials :
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="60px" alt="vscode" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg" width="60px" alt="Jetbrains" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp <br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="220px" alt="Jetbrains" style="vertical-align:top; margin:4px">&nbsp&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="150px" alt="Jetbrains" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="150px" alt="git" style="vertical-align:top; margin:4px">
+</p>&nbsp&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="150px" alt="mysql" style="vertical-align:top; margin:4px">
 </p>
 
 
