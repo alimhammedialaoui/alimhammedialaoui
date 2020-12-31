@@ -28,12 +28,9 @@ My socials :
 
 ### Hi 🙋‍♂️,I'm 22 years old Engineer student and Self-taught Full-Stack developer from Morocco.
 
-
-#### - 🔭 SpaceX FanBoi, 
-
 <br />
 
-**I am Into Network Security, Web Development, Distributed Systems, Security of systems, Micro Services, System Design**
+**I'm into Network Security, Web Development, Distributed Systems, Security of systems, Micro Services, System Design**
 <br />
 
 <p align="center">
