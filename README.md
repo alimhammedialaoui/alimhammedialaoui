@@ -36,13 +36,11 @@ My socials :
 **I am Into Network Security, Web Development, Distributed Systems, Security of systems, Micro Services, System Design**
 <br />
 
-
 <p align="center">
-<a href="https://github.com/alimhammedialaoui">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimhammedialaoui&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimhammedialaoui&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+![Ali M'hammedi Alaoui Github Stats](https://github-readme-stats.vercel.app/api?username=alimhammedialaoui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=123)
 </p>
+<br />
+
 
 
 *************
