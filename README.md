@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ali 👋.  
 
-My social : 
+My socials : 
 
 <a href="https://twitter.com/alimalaoui3">
   <img align="left" alt="Ali M'hammedi Alaoui| Twitter" width="26px" style="color:#FFFFFFF" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/twitter.svg" />
