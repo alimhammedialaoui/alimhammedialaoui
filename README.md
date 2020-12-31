@@ -3,8 +3,13 @@
 ### Hi there, I'm Ali 👋.  
 
 <a href="https://twitter.com/alimalaoui3">
-  <img align="left" alt="Ali M'hammedi Alaoui| Twitter" width="22px" style="color:#FFFFFFF" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/twitter.svg" />
+  <img align="left" alt="Ali M'hammedi Alaoui| Twitter" width="26px" style="color:#FFFFFFF" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/twitter.svg" />
 </a>
+
+<a href="https://www.youtube.com/channel/UCRQu4HG9tBidaVWpvzZErAQ">
+  <img align="left" alt="Ali M'hammedi Alaoui| Youtube" width="26px" style="color:#FFFFFFF" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/youtube.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/alimhammedialaoui/">
   <img align="left" alt="Linkedin" width="26px" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/linkedin.svg" />
 </a>
