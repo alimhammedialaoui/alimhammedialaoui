@@ -3,30 +3,26 @@
 ### Hi there, I'm Ali 👋.  
 
 <a href="https://twitter.com/alimalaoui3">
-  <img align="left" alt="Ali M'hammedi Alaoui| Twitter" width="22px" style="color:#FFFFFFF" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ali M'hammedi Alaoui| Twitter" width="22px" style="color:#FFFFFFF" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alimhammedialaoui/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="26px" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/ali.mhammedi.alaoui">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="26px" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/instagram.svg" />
 </a>
 
 <a href="https://www.facebook.com/ali.alaouimhammedi.3">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />
+  <img align="left" alt="Instagram" width="26px" src="https://github.com/alimhammedialaoui/alimhammedialaoui/blob/gh-pages/facebook.svg" />
 </a>
+
+<br/>
 
 ### Hi 🙋‍♂️,I'm 22 years old Engineer student and Self-taught Full-Stack developer from Morocco.
 
 
 #### - 🔭 SpaceX FanBoi, 
-
-#### - 💬 My Twitter 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/alimalaoui3)
-
-#### - 💬 My Facebook Here 👉🏼[<div><a href="https://www.flaticon.com/fr/auteurs/freepik" title="Freepik"></a><a href="https://www.flaticon.com/fr/" title="Flaticon">www.flaticon.com</a></div>
-
-](https://www.facebook.com/ali.alaouimhammedi.3)
 
 <br />
 
