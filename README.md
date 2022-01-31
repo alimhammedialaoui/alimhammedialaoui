@@ -26,7 +26,7 @@ My socials :
 
 <br/>
 
-### Hi 🙋‍♂️,I'm 22 years old Engineer student and Self-taught Full-Stack developer from Morocco.
+### Hi 🙋‍♂️,I'm 24 years old Engineer student and Self-taught Full-Stack developer from Morocco.
 
 <br />
 
